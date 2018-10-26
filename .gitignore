@@ -1,0 +1,9 @@
+/.git/*
+/.metadata/*
+/.recommenders/*
+/RemoteSystemsTempFiles/*
+/Servers/*
+.classpath
+.settings
+.project
+/target/*
